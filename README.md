@@ -1,6 +1,8 @@
 # Using Playwright MCP server + GPT-4.1 for Test Creation
 
-This repository showcases an advanced approach to automated browser testing, leveraging Playwright MCP servers and GPT-4.1 for efficient, scalable, and distributed test execution. My name is José Neto, a Quality Analyst with a focus on adopting emerging technologies to optimize software quality assurance workflows. For this project, I implemented automation for the [automationexercise.com](http://automationexercise.com) platform, which provides a comprehensive suite of test cases. 
+My name is José Neto, a Quality Analyst with a focus on adopting emerging technologies to optimize software quality assurance workflows. 
+
+This repository showcases an advanced approach to automated browser testing, leveraging Playwright MCP servers and GPT-4.1 for efficient, scalable, and distributed test execution. For this project, I implemented automation for the [automationexercise.com](http://automationexercise.com) platform, which provides a comprehensive suite of test cases. 
 
 By integrating MCP servers, I achieved a 40% improvement in test execution speed, enabling parallelization and distributed workload management. GPT-4.1 was utilized to assist in problem-solving and test optimization throughout the automation process.
 
